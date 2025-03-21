@@ -2,6 +2,7 @@
 
 This repository contains implementations and explanations of various **Data Structures** and **Algorithms** in JAVA.
 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
 ---
 
 ## Table of Contents
