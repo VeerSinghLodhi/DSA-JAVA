@@ -54,10 +54,6 @@ Feel free to contribute by adding new algorithms, improving the existing impleme
 2. Create a new branch for your feature or bugfix.
 3. Commit your changes and submit a pull request.
 
----
-
-## License
-This project is open-source and licensed under the [MIT License](./LICENSE).
 
 ---
 <h3 align="left">Connect with me:</h3>
