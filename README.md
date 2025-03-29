@@ -56,7 +56,8 @@ Feel free to contribute by adding new algorithms, improving the existing impleme
 3. Commit your changes and submit a pull request.
 
 
----
+##
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/veerSin22816021?t=o3hZnstGiN8U_nOjQWEqhw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veer singh lodhi" height="30" width="40" /></a>
