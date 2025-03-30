@@ -24,6 +24,10 @@ public class Stack2 {
             String name=scanner.nextLine();
             
             Student newStudent=new Student(rollno,name);
+            if(newStudent==null){
+                System.out.println("Cannot Allocated Memory!!");
+                return;
+            }
             if(top==null){
                 top=newStudent;
             }else{
