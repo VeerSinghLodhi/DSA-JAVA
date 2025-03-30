@@ -13,7 +13,7 @@ class Student{
 
 public class Queue_DS2 {
      private static Student front=null; // Front End of the Queue.
-    private static Student rear=null; // Rear End to the Queue.
+    private static Student rear=null; // Rear End of the Queue.
     public static java.util.Scanner scanner=new java.util.Scanner(System.in);
     // Enqueue Function for add new data.
     public static void addNewStudent(){
