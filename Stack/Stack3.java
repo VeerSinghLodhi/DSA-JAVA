@@ -15,7 +15,7 @@ class Person {
 
 public class Stack3 {
 
-    private static Person top = null;
+    private static Person top = null;  // Top of the stack
     public static java.util.Scanner scanner = new java.util.Scanner(System.in);
 
     //Method for add new Person
