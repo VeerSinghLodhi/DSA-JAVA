@@ -12,7 +12,7 @@ class Student{
 }
 
 public class Stack2 {
-    private static Student top=null;
+    private static Student top=null; // top of the stack.
     public static java.util.Scanner scanner=new java.util.Scanner(System.in);
     //Method for add new Student
     public static void addNewStudent(){
@@ -30,6 +30,7 @@ public class Stack2 {
                     newStudent.next=top;
                     top=newStudent;
             }
+            System.out.println("New Student Added");f
         }catch(Exception e){
             System.out.println("Error is "+e);
         }
